@@ -1,3 +1,3 @@
-# ATM-Machine-Dispenser
+# ATM-Dispenser-Machine
 
 ALL RIGHTS RESERVED
