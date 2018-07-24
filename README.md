@@ -1,3 +1,3 @@
-# ATM-Dispenser-Exchange
+# ATM-Currency-Exchange
 
 ALL RIGHTS RESERVED
